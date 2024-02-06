@@ -10,7 +10,7 @@ O **E-DEAL** é um projeto de e-commerce com o objetivo principal de ser um webs
 
 ## Visão Geral💡
 
-O **E-DEAL** é uma solução de e-commerce inovadora projetada para impulsionar as vendas de empresas. Nosso objetivo é proporcionar uma experiência online moderna e receptiva, elevando o padrão no âmbito comercial.
+O **E-DEAL** é uma solução de e-commerce inovadora projetada para impulsionar as vendas de empresas. Nosso objetivo é proporcionar uma experiência online moderna e receptiva, elevando o nível de experiência do usuário.
 
 ## Por que E-DEAL?🤔
 
