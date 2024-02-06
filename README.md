@@ -1,4 +1,4 @@
-# E-DEAL
+# E-DEAL🛒
 
 ## e-commerce👨‍💻
 
