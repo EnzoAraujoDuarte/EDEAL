@@ -34,7 +34,7 @@ Para ter uma ideia de como será a experiência de compra, confira o exemplo no 
 ![Exemplo de Compra](https://github.com/EnzoAraujoDuarte/EDEAL/blob/main/gifedeal%20(1).gif)
 
 
-(https://e-deal.vercel.app/)
+https://e-deal.vercel.app/
 
 
 
