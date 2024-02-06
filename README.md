@@ -4,7 +4,7 @@
 
 ### Projeto Final
 
-O **EDEAL** é um projeto de e-commerce com o objetivo principal de criar um website voltado para o âmbito comercial.
+O **EDEAL** é um projeto de e-commerce com o objetivo principal de ser um website voltado para o âmbito comercial.
 
 # Transformando Comércios Online 🚀
 
