@@ -8,5 +8,5 @@ O **EDEAL** é um projeto de e-commerce com o objetivo principal de criar um web
 
 Para ter uma ideia de como será a experiência de compra, confira o exemplo no gif abaixo:
 
-![Exemplo de Compra](file:///./imagens/gifedeal.gif)
+![Exemplo de Compra](file://./imagens/gifedeal.gif)
 
